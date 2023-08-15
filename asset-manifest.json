@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fdaf9f7.css",
-    "main.js": "/static/js/main.3808f068.js",
-    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
-    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
-    "static/media/chatify.png": "/static/media/chatify.370cd73a839bbbfa6ce8.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.d57d8856d491d112029f.jpg",
-    "static/media/page.PNG": "/static/media/page.e2abbc57ff5d4e4a2c98.PNG",
-    "static/media/animojii.png": "/static/media/animojii.1b1f563149dd557cefc4.png",
-    "static/media/about.png": "/static/media/about.543537a8d585db7822d7.png",
-    "static/media/crowdfunding.jpg": "/static/media/crowdfunding.272fdc5494bae09bb70b.jpg",
-    "static/media/shopify.png": "/static/media/shopify.ff193553784a29d7eafd.png",
-    "static/media/avatar.png": "/static/media/avatar.b58767dadbd2c685ebca.png",
-    "static/media/paytm.png": "/static/media/paytm.2040647d898f7c37a8ca.png",
-    "static/media/blog.png": "/static/media/blog.7f880125adc6d5fd341f.png",
-    "static/media/emotion.jpg": "/static/media/emotion.9f0a15049fdaf7f5a972.jpg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.4fdaf9f7.css.map": "/static/css/main.4fdaf9f7.css.map",
-    "main.3808f068.js.map": "/static/js/main.3808f068.js.map",
-    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
-    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
+    "main.css": "/chandrakalap.github.io/static/css/main.59ee4819.css",
+    "main.js": "/chandrakalap.github.io/static/js/main.d03777cf.js",
+    "static/js/415.fc063c41.chunk.js": "/chandrakalap.github.io/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/chandrakalap.github.io/static/js/787.f6e65957.chunk.js",
+    "static/media/chatify.png": "/chandrakalap.github.io/static/media/chatify.370cd73a839bbbfa6ce8.png",
+    "static/media/home-bg.jpg": "/chandrakalap.github.io/static/media/home-bg.d57d8856d491d112029f.jpg",
+    "static/media/page.PNG": "/chandrakalap.github.io/static/media/page.e2abbc57ff5d4e4a2c98.PNG",
+    "static/media/animojii.png": "/chandrakalap.github.io/static/media/animojii.1b1f563149dd557cefc4.png",
+    "static/media/about.png": "/chandrakalap.github.io/static/media/about.543537a8d585db7822d7.png",
+    "static/media/crowdfunding.jpg": "/chandrakalap.github.io/static/media/crowdfunding.272fdc5494bae09bb70b.jpg",
+    "static/media/shopify.png": "/chandrakalap.github.io/static/media/shopify.ff193553784a29d7eafd.png",
+    "static/media/avatar.png": "/chandrakalap.github.io/static/media/avatar.b58767dadbd2c685ebca.png",
+    "static/media/paytm.png": "/chandrakalap.github.io/static/media/paytm.2040647d898f7c37a8ca.png",
+    "static/media/blog.png": "/chandrakalap.github.io/static/media/blog.7f880125adc6d5fd341f.png",
+    "static/media/emotion.jpg": "/chandrakalap.github.io/static/media/emotion.9f0a15049fdaf7f5a972.jpg",
+    "static/media/pre.svg": "/chandrakalap.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/chandrakalap.github.io/index.html",
+    "main.59ee4819.css.map": "/chandrakalap.github.io/static/css/main.59ee4819.css.map",
+    "main.d03777cf.js.map": "/chandrakalap.github.io/static/js/main.d03777cf.js.map",
+    "415.fc063c41.chunk.js.map": "/chandrakalap.github.io/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/chandrakalap.github.io/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fdaf9f7.css",
-    "static/js/main.3808f068.js"
+    "static/css/main.59ee4819.css",
+    "static/js/main.d03777cf.js"
   ]
 }
