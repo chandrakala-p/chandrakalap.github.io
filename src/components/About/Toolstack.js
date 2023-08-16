@@ -22,7 +22,6 @@ function Toolstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiVmware />
       </Col>
-
     </Row>
   );
 }
